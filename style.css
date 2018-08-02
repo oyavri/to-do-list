@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+}
+
+.listItemStriked {
+  text-decoration: line-through;
+}
+
+#inputDiv {
+  display: inline;
+}
